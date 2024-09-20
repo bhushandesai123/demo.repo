@@ -1,4 +1,4 @@
-# AWS Load Balancer Controller Setup
+# Creating IAM Service Account for AWS Load Balancer Controller
 
 To create an IAM service account for the AWS Load Balancer Controller, run the following command:
 
